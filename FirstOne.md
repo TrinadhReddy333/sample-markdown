@@ -52,3 +52,7 @@ Ordered and unordered list
 1. first phase
   2. second phase
      
+chechbox
+=======
+-[x] Male
+-[ ] Female
