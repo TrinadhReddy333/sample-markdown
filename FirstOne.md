@@ -59,3 +59,11 @@ chechbox
 
 > block code
 >> block code
+
+Table
+=====
+S.No | Name 
+-----|------
+01   |Chiru
+02|Tiru
+03|nagu
