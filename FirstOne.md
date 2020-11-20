@@ -54,5 +54,5 @@ Ordered and unordered list
      
 chechbox
 =======
--[x] Male
--[ ] Female
+- [x] Male
+- [ ] Female
