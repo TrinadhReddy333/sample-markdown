@@ -24,7 +24,7 @@ _this is a github repository_
 
 Strikethrough Text
 =============
-~~this is code management system usung git
+~~this is code management system usung git~~
 
 Strong Text
 ==========
