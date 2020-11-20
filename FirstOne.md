@@ -49,7 +49,7 @@ Ordered and unordered list
   - second phase
     - third phase
  
- 1. first phase
+1. first phase
  2. second phase
- 3. third phase
+   3. third phase
      
