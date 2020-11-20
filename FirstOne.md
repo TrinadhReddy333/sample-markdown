@@ -86,5 +86,4 @@ Roll num | Email Address | Name
 Add Image
 ========
 ![picture](https://github.com/TrinadhReddy333/sample-markdown/blob/main/python%20download.jpg?raw=true)
-![photo](https://github.com/TrinadhReddy333/sample-markdown/blob/main/my%20photo.jpeg)
 <img src="https://github.com/TrinadhReddy333/sample-markdown/blob/main/my%20photo.jpeg" width="200" height="200" >
