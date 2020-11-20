@@ -45,3 +45,7 @@ Ordered and unordered list
     * third phase
        * fourth phase
         * fifth phase
+- first phase
+  - second phase
+    - third phase
+     
