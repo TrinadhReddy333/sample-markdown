@@ -51,5 +51,4 @@ Ordered and unordered list
  
 1. first phase
   2. second phase
-    3. third phase
      
