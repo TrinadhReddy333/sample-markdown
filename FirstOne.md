@@ -50,6 +50,6 @@ Ordered and unordered list
     - third phase
  
 1. first phase
- 2. second phase
-   3. third phase
+  2. second phase
+    3. third phase
      
