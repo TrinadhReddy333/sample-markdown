@@ -53,7 +53,7 @@ Ordered and unordered list
 
    2. second phase
    
-      3.third phase
+      3. third phase
     
 chechbox
 =======
