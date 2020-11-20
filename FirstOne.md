@@ -82,5 +82,5 @@ Roll num | Email Address | Name
 
 Add Image
 ========
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPython%2Fcomments%2Fgftejm%2Fi_redesign_the_python_logo_to_make_it_more_modern%2F&psig=AOvVaw1IrCS5CaFOSIW-dWvFGWDw&ust=1605931568083000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjtzcWfkO0CFQAAAAAdAAAAABAD)
+![picture]()
 ![photo](https://github.com/TrinadhReddy333/sample-markdown/blob/main/my%20photo.jpeg)
