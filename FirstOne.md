@@ -49,8 +49,8 @@ Ordered and unordered list
   - second phase
     - third phase
  
-1. first phase
-  2. second phase
+1. firstphase
+   2. secondphase
      
 chechbox
 =======
