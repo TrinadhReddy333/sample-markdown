@@ -49,10 +49,12 @@ Ordered and unordered list
   - second phase
     - third phase
  
-1. firstphase
+1. first phase
 
-   2. secondphase
-     
+   2. second phase
+   
+    3.third phase
+    
 chechbox
 =======
 - [x] Male
